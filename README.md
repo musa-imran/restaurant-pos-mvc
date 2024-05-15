@@ -23,6 +23,7 @@ This project is a comprehensive Point of Sale (POS) system tailored for restaura
 - **Bootstrap**: Frontend framework for responsive and modern UI.
 - **jQuery**: JavaScript library for interactive elements and AJAX requests.
 - **Entity Framework**: ORM for database interaction.
+- **SSRS Reporting**: SQL Server Reporting Services for making paginated reports.
 - **Microsoft IIS**: Hosting, deployment, and scalability.
 
 ## Getting Started
