@@ -28,3 +28,8 @@ This project is a comprehensive Point of Sale (POS) system tailored for restaura
 ## Getting Started
 
 To get full project source code, Email at : musaimran932@gmail.com
+
+## Screenshots
+
+User Authentication:
+![Screenshot 2024-05-15 161527](https://github.com/musa-imran/restaurant-pos/assets/125245592/75471604-759d-45a5-9787-77ac9bf8f6d0)
