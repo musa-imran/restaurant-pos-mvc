@@ -1,4 +1,4 @@
-![image](https://github.com/musa-imran/restaurant-pos/assets/125245592/0a3afd27-9b11-4bf3-adcb-b122fde0d068)# Restaurant Point of Sale System
+# Restaurant Point of Sale System
 
 ## Overview
 
