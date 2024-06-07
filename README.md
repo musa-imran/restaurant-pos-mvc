@@ -22,44 +22,40 @@ This project is a comprehensive Point of Sale (POS) system tailored for restaura
 - **SQL Server**: Database management system for storing and retrieving data.
 - **Bootstrap**: Frontend framework for responsive and modern UI.
 - **jQuery**: JavaScript library for interactive elements and AJAX requests.
+- **Progress Telerik UI Controls:** Grid Themes & Interactions.
 - **Entity Framework**: ORM for database interaction.
 - **SSRS Reporting**: SQL Server Reporting Services for making paginated reports.
 - **Microsoft IIS**: Hosting, deployment, and scalability.
 
 ## Getting Started
 
-To get full project source code, Email at : musaimran932@gmail.com
+To get full project source code, Email: musaimran932@gmail.com
 
 ## Screenshots
 
 ### User Authentication:
-![Screenshot 2024-05-15 161527](https://github.com/musa-imran/restaurant-pos/assets/125245592/75471604-759d-45a5-9787-77ac9bf8f6d0)
+<img width="900" alt="Login Pages" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/e758f8bc-293b-4472-a4c4-2f5b5cdb4f9c">
 
-### Analytical Dashboard:
-![Screenshot 2024-05-15 162318](https://github.com/musa-imran/restaurant-pos/assets/125245592/dad8ca92-4618-4ec6-beb3-c87481c8ad76)
+### Main Menu:
+<img width="900" alt="Main Menu" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/a09f3285-4d75-4f78-9804-53ae447f9945">
 
 ### Category Management:
-![Screenshot 2024-05-15 162332](https://github.com/musa-imran/restaurant-pos/assets/125245592/35caca5e-20b3-4c22-8ea3-e98660cf413d)
+<img width="900" alt="Categories" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/654e083b-3a88-4408-9107-10e5bd26dff2">
 
 ### Menu Items Management:
-![Screenshot 2024-05-15 162356](https://github.com/musa-imran/restaurant-pos/assets/125245592/a91f0d2f-3b33-41ea-adc6-2f49cee6e71b)
-
-### Stock Inventory Management:
-![Screenshot 2024-05-15 162420](https://github.com/musa-imran/restaurant-pos/assets/125245592/8534eaa5-510e-4cd0-bf13-ac734ce196d5)
+<img width="900" alt="Menu Items" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/1d899d89-581c-4df8-9aa7-f8b4f219a7a4">
 
 ### Order Management:
-![Screenshot 2024-05-15 162445](https://github.com/musa-imran/restaurant-pos/assets/125245592/10da4e49-b1f6-41c9-b28b-5cc6fcf743ec)
+<img width="900" alt="List of Orders" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/c7cf38fb-e98f-45f7-87f7-8bb4ea08e56e">
 
-### Invoice Bill:
-![Screenshot 2024-05-15 162547](https://github.com/musa-imran/restaurant-pos/assets/125245592/b62eb4db-2a16-4b50-90a6-1e5cc655a067)
-
-### Point of Sale Screen:
-![Screenshot 2024-05-15 163603](https://github.com/musa-imran/restaurant-pos/assets/125245592/c12f1409-c19a-40c2-8260-df4fa3b8b61d)
+### Point of Sale Screen (Light Mode):
+<img width="900" alt="POS (Light)" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/0eb4fe8b-261d-4b55-a1ae-3a21c46eb0bf">
 
 ### Point of Sale Screen (Dark Mode):
-![Screenshot 2024-05-16 113336](https://github.com/musa-imran/restaurant-pos/assets/125245592/26fec370-c11b-441a-94d9-0728d5766912)
+<img width="900" alt="POS (Dark)" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/8248e301-8bae-4395-8c75-a4da0b038c11">
 
-### SSRS Report Viewer:
-![Screenshot 2024-05-16 113303](https://github.com/musa-imran/restaurant-pos/assets/125245592/6b3ecf04-d272-4e01-88ca-4d9e6f0068f0)
+### Slips / Invoices:
+<img width="900" alt="Slips" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/878b7704-e5e3-4717-98b1-522c0e3bbf63">
 
-
+### Power BI Dashboard:
+<img width="900" alt="Power BI" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/f184c16b-4801-431c-9c3b-8df11f64eceb">
