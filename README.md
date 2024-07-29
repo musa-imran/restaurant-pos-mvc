@@ -29,7 +29,9 @@ This project is a comprehensive Point of Sale (POS) system tailored for restaura
 
 ## Getting Started
 
-To get full project source code, Email: musaimran932@gmail.com
+To get full project source code,
+- Email: musaimran932@gmail.com
+- WhatsApp: +92 306 3239877
 
 ## Screenshots
 
