@@ -31,7 +31,7 @@ This project is a comprehensive Point of Sale (POS) system tailored for restaura
 
 To get full project source code,
 - Email: musaimran932@gmail.com
-- WhatsApp: +92 306 3239877
+- WhatsApp: [+92 306 3239877](https://api.whatsapp.com/send?phone=923063239877)
 
 ## Screenshots
 
