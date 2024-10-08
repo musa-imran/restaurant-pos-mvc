@@ -25,7 +25,9 @@ This project is a comprehensive Point of Sale (POS) system tailored for restaura
 - **Progress Telerik UI Controls:** Grid Themes & Interactions.
 - **Entity Framework**: ORM for database interaction.
 - **SSRS Reporting**: SQL Server Reporting Services for making paginated reports.
-- **Microsoft IIS**: Hosting, deployment, and scalability.
+- **Microsoft IIS**: Local Hosting, deployment, and scalability.
+- **Microsoft Azure**: Cloud Hosting & Deployment.
+- **Azure DevOps**: Version Control.
 
 ## Getting Started
 
