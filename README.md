@@ -60,6 +60,3 @@ To get full project source code,
 
 ### Slips / Invoices:
 <img width="900" alt="Slips" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/878b7704-e5e3-4717-98b1-522c0e3bbf63">
-
-### Power BI Dashboard:
-<img width="900" alt="Power BI" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/f184c16b-4801-431c-9c3b-8df11f64eceb">
