@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a comprehensive Point of Sale (POS) system tailored for restaurants, built using ASP.NET MVC. It includes features for managing sales orders, inventory, menu items, user roles, and more.
+This project is a comprehensive Point of Sale (POS) system tailored for restaurants, cafes, shops, supermarkets etc built using ASP.NET MVC. It includes features for managing sales orders, inventory, menu items, user roles, and more.
 
 ## Key Features
 
