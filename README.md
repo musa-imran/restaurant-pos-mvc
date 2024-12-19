@@ -35,6 +35,15 @@ To get full project source code,
 - Email: musaimran932@gmail.com
 - WhatsApp: [+92 306 3239877](https://api.whatsapp.com/send?phone=923063239877)
 
+## What's in the zip file?
+
+- Project Solution (.sln) File.
+- SQL Server Database Backup File.
+- SQL Server Database Script Code.
+- Thermal Printer (BC-95) Installer.
+- Project Installation Guide Video.
+- Software Screenshots.
+
 ## Screenshots
 
 ### User Authentication:
