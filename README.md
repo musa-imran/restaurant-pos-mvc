@@ -1,5 +1,3 @@
-# Restaurant Point of Sale System
-
 ## Overview
 
 This project is a comprehensive Point of Sale (POS) system tailored for restaurants, cafes, shops, supermarkets etc built using ASP.NET MVC. It includes features for managing sales orders, inventory, menu items, user roles, and more.
@@ -38,25 +36,31 @@ To get full project source code,
 ## Screenshots
 
 ### User Authentication:
-<img width="900" alt="Login Pages" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/e758f8bc-293b-4472-a4c4-2f5b5cdb4f9c">
+![Screenshot (20)](https://github.com/user-attachments/assets/4db7e516-d3c4-486f-9e03-548202e5d4e2)
+![Screenshot (19)](https://github.com/user-attachments/assets/f9c4191a-054f-452e-a3ce-3c9410db93ff)
 
 ### Main Menu:
-<img width="900" alt="Main Menu" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/a09f3285-4d75-4f78-9804-53ae447f9945">
+![Screenshot (21)](https://github.com/user-attachments/assets/faccff0d-fdbd-464f-98e8-19eb074c1aed)
 
 ### Category Management:
-<img width="900" alt="Categories" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/654e083b-3a88-4408-9107-10e5bd26dff2">
+![Screenshot (22)](https://github.com/user-attachments/assets/40abfe5c-4ced-419c-b675-0f872c6352de)
 
 ### Menu Items Management:
-<img width="900" alt="Menu Items" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/1d899d89-581c-4df8-9aa7-f8b4f219a7a4">
+![Screenshot (23)](https://github.com/user-attachments/assets/eb7abbd3-7167-418e-bf85-b7b8f538dc72)
+
+### Table Management:
+![Screenshot (24)](https://github.com/user-attachments/assets/19e6c73a-7ad5-49f1-9a13-e77baed8c1a5)
 
 ### Order Management:
-<img width="900" alt="List of Orders" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/c7cf38fb-e98f-45f7-87f7-8bb4ea08e56e">
+![Screenshot (25)](https://github.com/user-attachments/assets/bef97272-c84d-48e1-b5e7-0fbd5242ff89)
 
 ### Point of Sale Screen (Light Mode):
-<img width="900" alt="POS (Light)" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/0eb4fe8b-261d-4b55-a1ae-3a21c46eb0bf">
+![Screenshot (26)](https://github.com/user-attachments/assets/d683adc6-703d-47a9-8ae5-3096090f496a)
 
 ### Point of Sale Screen (Dark Mode):
-<img width="900" alt="POS (Dark)" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/8248e301-8bae-4395-8c75-a4da0b038c11">
+![Screenshot (27)](https://github.com/user-attachments/assets/ed3db62b-0656-44b8-8670-ee6c0ff8cd10)
 
 ### Slips / Invoices:
-<img width="900" alt="Slips" src="https://github.com/musa-imran/restaurant-pos-mvc/assets/125245592/878b7704-e5e3-4717-98b1-522c0e3bbf63">
+![Screenshot (28)](https://github.com/user-attachments/assets/d888c857-9cb5-477e-9d95-aeb1fecb21a0)
+![Screenshot (29)](https://github.com/user-attachments/assets/64608201-cacf-42ad-885a-b342579ca4ef)
+![Screenshot (30)](https://github.com/user-attachments/assets/a8faf4aa-10db-4069-ab28-8474657f4739)
