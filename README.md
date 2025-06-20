@@ -52,7 +52,8 @@ To get full project source code,
 ![Screenshot (24)](https://github.com/user-attachments/assets/19e6c73a-7ad5-49f1-9a13-e77baed8c1a5)
 
 ### Order Management:
-![Screenshot (25)](https://github.com/user-attachments/assets/bef97272-c84d-48e1-b5e7-0fbd5242ff89)
+![Screenshot (31)](https://github.com/user-attachments/assets/fb98b392-b268-4b7b-a320-877146c2c2a5)
+![Screenshot (32)](https://github.com/user-attachments/assets/bbcd2a55-2864-4cd7-bcad-a9065f57dd3f)
 
 ### Point of Sale Screen (Light Mode):
 ![Screenshot (26)](https://github.com/user-attachments/assets/d683adc6-703d-47a9-8ae5-3096090f496a)
